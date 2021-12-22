@@ -12,7 +12,7 @@
  <div>
   <a href="https://github.com/devkazuko%22%3E
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=devkazuko&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/%3E
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukoxdxd&layout=compact&langs_count=8&theme=synthwave%22/%3E
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkazuko&layout=compact&langs_count=8&theme=synthwave%22/%3E
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
